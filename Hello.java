@@ -6,3 +6,11 @@ public class Hello
 
     }
 }
+
+class Studen
+{
+    public void displayName(String name,int age)
+    {
+        System.out.println("name: "+name+"\nage: "+age);
+    }
+}
